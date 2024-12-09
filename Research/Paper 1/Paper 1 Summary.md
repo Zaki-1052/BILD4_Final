@@ -1,7 +1,6 @@
 # Paper 1
 
-Here's a comprehensive summary of the research paper on human genetics and epigenetics of alcohol use disorder (AUD):
-
+Summary of research paper on human genetics and epigenetics of alcohol use disorder (AUD):
 # Summary
 
 The paper reviews recent progress in understanding the genetic and epigenetic foundations of alcohol use disorder (AUD), a chronic relapsing condition that significantly impacts global health. Here are the key points:

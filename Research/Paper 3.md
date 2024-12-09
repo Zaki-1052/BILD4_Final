@@ -8,8 +8,7 @@ Alcoholic drinks are capable of triggering a wide range of allergic and allergic
 
 ## Summary
 
-Here is my comprehensive summary of the academic review paper on allergic and asthmatic reactions to alcoholic drinks:
-
+Summary of academic review paper on allergic and asthmatic reactions to alcoholic drinks:
 ### Intro
 
 This review examines the various allergic and allergic-like responses triggered by alcoholic beverages, including rhinitis, itching, facial swelling, headache, cough, and asthma. Key findings include:
