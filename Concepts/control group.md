@@ -1,0 +1,4 @@
+• Non-Asian participants or those without [[ALDH2*rs671 variant]]  
+• Used to compare: [[blood-alcohol concentration]], [[methylation patterns]]  
+• Reference for: [[experimental group]]  
+• Shows normal alcohol metabolism

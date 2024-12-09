@@ -1,0 +1,4 @@
+• Facial flushing response to alcohol  
+• Caused by: [[acetaldehyde]] accumulation  
+• Result of: [[ALDH2*rs671 variant]]  
+• Part of: [[greater effects of alcohol]]

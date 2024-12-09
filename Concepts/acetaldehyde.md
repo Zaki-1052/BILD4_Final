@@ -1,0 +1,4 @@
+• Toxic [[intermediate product]] of alcohol metabolism  
+• Accumulates due to [[reduced ALDH2 enzyme activity]]  
+• Inhibits: [[DNA methyltransferases]]  
+• Causes: [[Asian glow]], [[intoxication and alcohol sensitivity]]

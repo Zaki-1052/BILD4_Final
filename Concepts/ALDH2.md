@@ -1,0 +1,5 @@
+• ~40% reduction in enzyme efficiency in heterozygotes  
+• Nearly complete loss of function in homozygotes  
+• Caused by single amino acid change (Glu504Lys)  
+• See [[Paper 4]] for detailed effects on intoxication feelings
+- Connected to: [[ALDH2 genotypes]]
