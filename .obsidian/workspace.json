@@ -181,7 +181,7 @@
               "type": "markdown",
               "state": {
                 "file": "Poster/Q&A.md",
-                "mode": "source",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               },
@@ -193,14 +193,18 @@
             "id": "30fcd49c0bf5b860",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/aldehyde dehydrogenase 2.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "aldehyde dehydrogenase 2"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -375,23 +379,24 @@
       "print:Print note": false
     }
   },
-  "active": "3465efd955f09e5e",
+  "active": "cbc781bd05b18859",
   "lastOpenFiles": [
-    "Poster/Presentation Points.md",
-    "Poster/Hypothesis.md",
+    "Concepts/aldehyde dehydrogenase 2.md",
     "Poster/Q&A.md",
-    "Poster/Background.md",
-    "Poster/Methods Notes.md",
-    "Poster/Outcomes Notes.md",
     "Poster/Possibilities Notes.md",
-    "Poster/Possibilities.md",
-    "Poster/Outcomes.md",
-    "Poster/Methods.md",
-    "Poster/Speaking Points.md",
+    "Poster/Outcomes Notes.md",
+    "Poster/Methods Notes.md",
     "Poster/Speaker Notes.md",
     "Poster/Research Explanation.md",
     "Research/Epigenetic Relationship.md",
     "Poster/Research Support.md",
+    "Poster/Presentation Points.md",
+    "Poster/Speaking Points.md",
+    "Poster/Hypothesis.md",
+    "Poster/Background.md",
+    "Poster/Possibilities.md",
+    "Poster/Outcomes.md",
+    "Poster/Methods.md",
     "Research/Paper 1/Paper 1 Summary.md",
     "Poster/Topic.md",
     "Concepts/DNA hypomethylation.md",
@@ -401,7 +406,6 @@
     "Concepts/reduced ALDH2 enzyme activity.md",
     "Concepts/Asian glow.md",
     "Concepts/ALDH2.md",
-    "Concepts/aldehyde dehydrogenase 2.md",
     "Concepts/one-carbon metabolism.md",
     "Concepts",
     "research/paper_2",
