@@ -8,6 +8,6 @@
   "h5Size": "14px",
   "h6Size": "12px",
   "combineFolderNotes": true,
-  "hrPageBreaks": false,
+  "hrPageBreaks": true,
   "debugMode": false
 }

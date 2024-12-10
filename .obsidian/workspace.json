@@ -124,7 +124,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -298,16 +299,16 @@
       "print:Print note": false
     }
   },
-  "active": "cbc781bd05b18859",
+  "active": "3465efd955f09e5e",
   "lastOpenFiles": [
+    "Poster/Speaking Points.md",
+    "Poster/Presentation Points.md",
+    "Poster/Hypothesis.md",
     "Poster/Speaker Notes.md",
     "Poster/Research Explanation.md",
     "Research/Epigenetic Relationship.md",
     "Poster/Research Support.md",
-    "Poster/Speaking Points.md",
-    "Poster/Presentation Points.md",
     "Poster/Methods.md",
-    "Poster/Hypothesis.md",
     "Poster/Background.md",
     "Research/Paper 1/Paper 1 Summary.md",
     "Poster/Outcomes.md",
