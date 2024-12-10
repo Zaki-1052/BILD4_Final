@@ -203,6 +203,19 @@
               "icon": "lucide-file",
               "title": "aldehyde dehydrogenase 2"
             }
+          },
+          {
+            "id": "b8f749242b53f6b5",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/bookmarks.json",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (bookmarks.json)"
+            }
           }
         ]
       }
@@ -260,8 +273,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae334059d7309bc",
@@ -381,6 +393,7 @@
   },
   "active": "cbc781bd05b18859",
   "lastOpenFiles": [
+    "Poster/Hypothesis.md",
     "Concepts/aldehyde dehydrogenase 2.md",
     "Poster/Q&A.md",
     "Poster/Possibilities Notes.md",
@@ -390,10 +403,11 @@
     "Poster/Research Explanation.md",
     "Research/Epigenetic Relationship.md",
     "Poster/Research Support.md",
-    "Poster/Presentation Points.md",
     "Poster/Speaking Points.md",
-    "Poster/Hypothesis.md",
+    "Poster/Presentation Points.md",
+    "Research/Metabolism.md",
     "Poster/Background.md",
+    "Research/Genetics.md",
     "Poster/Possibilities.md",
     "Poster/Outcomes.md",
     "Poster/Methods.md",
@@ -405,8 +419,6 @@
     "Concepts/acetaldehyde.md",
     "Concepts/reduced ALDH2 enzyme activity.md",
     "Concepts/Asian glow.md",
-    "Concepts/ALDH2.md",
-    "Concepts/one-carbon metabolism.md",
     "Concepts",
     "research/paper_2",
     "Research/Paper 1",
