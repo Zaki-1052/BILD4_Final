@@ -23,199 +23,6 @@
               "icon": "lucide-file",
               "title": "Hypothesis"
             }
-          },
-          {
-            "id": "3465efd955f09e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poster/Presentation Points.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Presentation Points"
-            }
-          },
-          {
-            "id": "4b7e3f91b9a9e5ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poster/Speaking Points.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Speaking Points"
-            }
-          },
-          {
-            "id": "93704d1f0f425655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poster/Research Support.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Research Support"
-            }
-          },
-          {
-            "id": "56d3b73625393b66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research/Epigenetic Relationship.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Epigenetic Relationship"
-            }
-          },
-          {
-            "id": "18f1ea08205c7c57",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poster/Research Explanation.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Research Explanation"
-            }
-          },
-          {
-            "id": "ebc1f4eea295378c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poster/Speaker Notes.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Speaker Notes"
-            }
-          },
-          {
-            "id": "947b02fca2188006",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poster/Methods Notes.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Methods Notes"
-            }
-          },
-          {
-            "id": "4f86aed4da3d7673",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poster/Methods Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Methods Notes"
-            }
-          },
-          {
-            "id": "15203f5bcc3087da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poster/Outcomes Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Outcomes Notes"
-            }
-          },
-          {
-            "id": "ec2e30284e49a122",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poster/Possibilities Notes.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Possibilities Notes"
-            }
-          },
-          {
-            "id": "ec953a9e22ac4435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Poster/Q&A.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Q&A"
-            }
-          },
-          {
-            "id": "30fcd49c0bf5b860",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/aldehyde dehydrogenase 2.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "aldehyde dehydrogenase 2"
-            }
-          },
-          {
-            "id": "b8f749242b53f6b5",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/bookmarks.json",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (bookmarks.json)"
-            }
           }
         ]
       }
@@ -391,20 +198,26 @@
       "print:Print note": false
     }
   },
-  "active": "cbc781bd05b18859",
+  "active": "78df81fd7ebc5c02",
   "lastOpenFiles": [
+    "Poster/Question.md",
     "Poster/Hypothesis.md",
-    "Concepts/aldehyde dehydrogenase 2.md",
-    "Poster/Q&A.md",
-    "Poster/Possibilities Notes.md",
+    "Poster/Hypothesis Presentation.md",
+    "Research/Paper 2.md",
+    "Research/Paper 3.md",
+    "Research/Paper 4.md",
     "Poster/Outcomes Notes.md",
     "Poster/Methods Notes.md",
+    "Poster/Speaking Points.md",
+    "Concepts/ALDH2*rs671 variant.md",
     "Poster/Speaker Notes.md",
+    "Poster/Presentation Points.md",
     "Poster/Research Explanation.md",
     "Research/Epigenetic Relationship.md",
     "Poster/Research Support.md",
-    "Poster/Speaking Points.md",
-    "Poster/Presentation Points.md",
+    "Poster/Q&A.md",
+    "Concepts/aldehyde dehydrogenase 2.md",
+    "Poster/Possibilities Notes.md",
     "Research/Metabolism.md",
     "Poster/Background.md",
     "Research/Genetics.md",
@@ -413,12 +226,6 @@
     "Poster/Methods.md",
     "Research/Paper 1/Paper 1 Summary.md",
     "Poster/Topic.md",
-    "Concepts/DNA hypomethylation.md",
-    "Research/Paper 1/Paper 1 Key Points.md",
-    "Concepts/DNA methyltransferases.md",
-    "Concepts/acetaldehyde.md",
-    "Concepts/reduced ALDH2 enzyme activity.md",
-    "Concepts/Asian glow.md",
     "Concepts",
     "research/paper_2",
     "Research/Paper 1",
