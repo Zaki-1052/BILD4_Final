@@ -118,10 +118,15 @@
             "id": "947b02fca2188006",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Poster/Methods Notes.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Methods Notes"
             }
           },
           {
@@ -130,7 +135,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Methods Notes.md",
+                "file": "Poster/Methods Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -145,7 +150,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outcomes Notes.md",
+                "file": "Poster/Outcomes Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -160,13 +165,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Possibilities Notes.md",
+                "file": "Poster/Possibilities Notes.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Possibilities Notes"
+            }
+          },
+          {
+            "id": "5440362620cb9a6e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "dad199d0cbaa20b8",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": "Methods Notes.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (Methods Notes)"
             }
           }
         ]
@@ -225,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eae334059d7309bc",
@@ -345,15 +374,15 @@
   },
   "active": "cbc781bd05b18859",
   "lastOpenFiles": [
-    "Possibilities Notes.md",
+    "Poster/Outcomes Notes.md",
+    "Poster/Hypothesis.md",
+    "Poster/Methods Notes.md",
+    "Poster/Possibilities Notes.md",
     "Poster/Possibilities.md",
     "Poster/Outcomes.md",
     "Poster/Methods.md",
-    "Outcomes Notes.md",
-    "Methods Notes.md",
     "Poster/Presentation Points.md",
     "Poster/Speaking Points.md",
-    "Poster/Hypothesis.md",
     "Poster/Speaker Notes.md",
     "Poster/Research Explanation.md",
     "Research/Epigenetic Relationship.md",
