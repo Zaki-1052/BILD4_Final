@@ -25,7 +25,7 @@
 
 ## Back Flashcard
 
-### KEY MECHANISMS & SUPPORT:
+### Key Mechanisms:
 
 #### DNA Methylation Process:
 • One-carbon metabolism provides methyl groups
