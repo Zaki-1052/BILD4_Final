@@ -14,4 +14,10 @@ This experiment compares the effects of alcohol with the presence and absence of
 ## [[Metabolism]]
 
 
+# Speaker Notes
+
+-  Ask how epigenome is affected by alcohol consumption for individuals with asian ancestry
+	- We're defining the epigenome here as the collection of chemical modifications to our DNA that control gene expression -- specifically methylation of DNA from the lack of enzymes meant to metabolize and catalyze toxic chemicals from ethanol products.
+
+- ### [[Research Support]]
 

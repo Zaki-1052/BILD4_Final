@@ -25,22 +25,66 @@
             }
           },
           {
-            "id": "b7268a080cd740a3",
+            "id": "93704d1f0f425655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Research/Paper 1/Paper 1 Summary.md",
-                "mode": "preview",
+                "file": "Poster/Research Support.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paper 1 Summary"
+              "title": "Research Support"
+            }
+          },
+          {
+            "id": "56d3b73625393b66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Epigenetic Relationship.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Epigenetic Relationship"
+            }
+          },
+          {
+            "id": "4b7e3f91b9a9e5ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poster/Speaker Notes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Speaker Notes"
+            }
+          },
+          {
+            "id": "18f1ea08205c7c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Poster/Research Explanation.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Research Explanation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,34 +258,34 @@
       "print:Print note": false
     }
   },
-  "active": "b7268a080cd740a3",
+  "active": "cbc781bd05b18859",
   "lastOpenFiles": [
-    "Research/Paper 1/Paper 1 Abstract.md",
+    "Poster/Research Support.md",
+    "Poster/Speaker Notes.md",
+    "Poster/Research Explanation.md",
     "Poster/Hypothesis.md",
-    "Research/Paper 1/Paper 1 Summary.md",
-    "Research/Paper 1/Paper 1 Key Points.md",
-    "Poster/Topic.md",
-    "Poster/Question.md",
-    "Poster/Possibilities.md",
-    "Poster/Outcomes.md",
-    "Poster/Methods.md",
+    "Research/Epigenetic Relationship.md",
     "Poster/Background.md",
-    "Research/Paper 4.md",
+    "Research/Paper 1/Paper 1 Summary.md",
+    "Poster/Outcomes.md",
+    "Poster/Topic.md",
+    "Concepts/DNA hypomethylation.md",
+    "Research/Paper 1/Paper 1 Key Points.md",
+    "Concepts/DNA methyltransferases.md",
+    "Concepts/acetaldehyde.md",
+    "Concepts/reduced ALDH2 enzyme activity.md",
+    "Concepts/Asian glow.md",
+    "Concepts/ALDH2.md",
+    "Concepts/aldehyde dehydrogenase 2.md",
+    "Concepts/one-carbon metabolism.md",
+    "Concepts/methylation patterns.md",
+    "Concepts/methylation process.md",
+    "Concepts/genes controlling alcohol metabolism.md",
+    "Research/Metabolism.md",
+    "Research/Genetics.md",
     "Research/Paper 3.md",
     "Research/Paper 2.md",
     "Research/Methylation.md",
-    "Research/Metabolism.md",
-    "Research/Genetics.md",
-    "Research/Epigenomics.md",
-    "Concepts/accumulate at higher levels in Asian individuals.md",
-    "Concepts/Asian ancestry.md",
-    "Concepts/epigenetic dysregulation.md",
-    "Concepts/intoxication and alcohol sensitivity.md",
-    "Concepts/ALDH2 genotypes.md",
-    "Concepts/Asian glow.md",
-    "Concepts/ALDH2*rs671 variant.md",
-    "Concepts/ALDH2.md",
-    "Concepts/DNA hypomethylation.md",
     "Concepts",
     "research/paper_2",
     "Research/Paper 1",
