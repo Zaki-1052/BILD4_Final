@@ -45,7 +45,7 @@
 
 #### Experimental Design:
 • Control: Non-variant carriers
-• Experimental: ALDH2*rs671 carriers
+• Experimental: ALDH2\*rs671 carriers
 • Measuring: BAC, methylation, symptoms
 
 ## [[Speaking Points]]

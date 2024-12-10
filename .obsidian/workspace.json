@@ -188,9 +188,19 @@
               "icon": "lucide-file",
               "title": "Q&A"
             }
+          },
+          {
+            "id": "30fcd49c0bf5b860",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,7 +256,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eae334059d7309bc",
@@ -364,18 +375,18 @@
       "print:Print note": false
     }
   },
-  "active": "f4f985d9e5f46232",
+  "active": "3465efd955f09e5e",
   "lastOpenFiles": [
-    "Poster/Background.md",
-    "Poster/Q&A.md",
+    "Poster/Presentation Points.md",
     "Poster/Hypothesis.md",
+    "Poster/Q&A.md",
+    "Poster/Background.md",
     "Poster/Methods Notes.md",
     "Poster/Outcomes Notes.md",
     "Poster/Possibilities Notes.md",
     "Poster/Possibilities.md",
     "Poster/Outcomes.md",
     "Poster/Methods.md",
-    "Poster/Presentation Points.md",
     "Poster/Speaking Points.md",
     "Poster/Speaker Notes.md",
     "Poster/Research Explanation.md",
