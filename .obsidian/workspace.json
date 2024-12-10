@@ -173,29 +173,6 @@
               "icon": "lucide-file",
               "title": "Possibilities Notes"
             }
-          },
-          {
-            "id": "5440362620cb9a6e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "dad199d0cbaa20b8",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": "Methods Notes.md",
-                "staged": false
-              },
-              "icon": "git-pull-request",
-              "title": "Diff View (Methods Notes)"
-            }
           }
         ]
       }
@@ -253,8 +230,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eae334059d7309bc",
@@ -374,9 +350,9 @@
   },
   "active": "cbc781bd05b18859",
   "lastOpenFiles": [
-    "Poster/Outcomes Notes.md",
-    "Poster/Hypothesis.md",
     "Poster/Methods Notes.md",
+    "Poster/Hypothesis.md",
+    "Poster/Outcomes Notes.md",
     "Poster/Possibilities Notes.md",
     "Poster/Possibilities.md",
     "Poster/Outcomes.md",
