@@ -13,3 +13,6 @@ The implication here would be that in our experimental group, this would spiral 
 ## [[Research Explanation]]
 
 - The epigenetic dysregulation will be shown in Asian individuals with the ALDH2 variant due to an accumulation of acetaldehyde because of a lack of metabolism of ethanol to acetate, leading to hypomethylation when it interferes with DNA methyltransferases, so that individuals with Asian ancestry become more sensitive to alcohol in their epigenome, finally leading to increased frequency of the Asian glow phenomenon and higher intoxication levels.
+
+## [[Presentation Points]]
+
