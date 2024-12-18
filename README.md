@@ -1,1 +1,1 @@
-![Poster Board](./poster.svg)
+![Poster Board](./poster.jpg)
